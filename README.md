@@ -1,4 +1,3 @@
-Customer Churn Lit Review
 # **Literature Review: Customer Churn Prediction**
 
 ## **1. Introduction**
